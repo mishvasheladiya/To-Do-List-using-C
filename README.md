@@ -11,10 +11,12 @@ Exit: Exits the application.
 
 
 Technologies Used:
+
 C Programming Language
 
 
 Demo:
+
 To-Do List Application
 1. Add Task
 2. View All Tasks
