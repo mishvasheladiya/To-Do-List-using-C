@@ -10,9 +10,11 @@ Delete Task: Deletes a task from the list.
 Exit: Exits the application.
 
 
+
 Technologies Used:
 
 C Programming Language
+
 
 
 Demo:
